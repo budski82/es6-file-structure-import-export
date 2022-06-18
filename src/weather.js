@@ -4,4 +4,6 @@ export let weather =()=> {
         return temperature + " " + conditions;
 };
 
-        console.log(weather);
+      
+
+
