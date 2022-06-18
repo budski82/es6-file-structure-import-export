@@ -4,5 +4,11 @@
 
 body {
     font: 1.5rem 'Raleway',sans-serif;
-    background-image: linear-gradient(to right, #cce 20%, #ecc9 40%);
+    background-image: linear-gradient(to right, #cce 20%, #cce8 40%, #ecc9 60%);
+}
+
+#app {
+    background: #4325;
+    border: .05rem solid purple;
+    min-height: 1rem;
 }
