@@ -1,0 +1,24 @@
+{
+  "name": "es6-file-structure-import-export",
+  "version": "1.0.0",
+  "description": "learning es6 import export this is practice setion",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budski82/es6-file-structure-import-export.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budski82/es6-file-structure-import-export/issues"
+  },
+  "homepage": "https://github.com/budski82/es6-file-structure-import-export#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
